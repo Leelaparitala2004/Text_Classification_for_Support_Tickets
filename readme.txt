@@ -18,7 +18,11 @@ The system uses **Natural Language Processing (NLP)** techniques and a **TF-IDF 
 * Joblib
 
 ---
+## Notes
 
+* The dataset used in this project was synthetically generated using Mockaroo for demonstration and evaluation purposes.
+* The approach can be extended to large-scale real-world datasets.
+-----
 ## Project Structure
 
 ```
@@ -115,10 +119,7 @@ python src/evaluate_model.py
 
 ---
 
-## Notes
 
-* This project uses a sample dataset for demonstration purposes.
-* The approach can be extended to large-scale real-world datasets.
 
 ---
 
