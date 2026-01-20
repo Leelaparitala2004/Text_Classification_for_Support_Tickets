@@ -1,0 +1,11 @@
+ticket_text,category
+Unable to login to my account,Login Issue
+Password reset link is not working,Login Issue
+Payment was deducted but order failed,Payment Issue
+App crashes when I open it,Technical Issue
+Unable to update my profile details,Account Issue
+Refund not received yet,Payment Issue
+Getting error while making payment,Payment Issue
+Application is very slow after update,Technical Issue
+Forgot password email not received,Login Issue
+Facing issues while logging in,Login Issue
